@@ -17,5 +17,6 @@
         "path": "./themes/Eaticx-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": "https://github.com/dragonintelligence/eaticx-color-theme.git"
 }
