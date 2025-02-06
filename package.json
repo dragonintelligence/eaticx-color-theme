@@ -19,5 +19,6 @@
     ]
   },
   "repository": "https://github.com/dragonintelligence/eaticx-color-theme.git",
-  "publisher": "DragonIntelligence"
+  "publisher": "DragonIntelligence",
+  "icon": "./images/icon.png"
 }
